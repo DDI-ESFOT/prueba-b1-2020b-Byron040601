@@ -1,0 +1,116 @@
+#logo{
+    justify-content: center;
+    display: flex;
+}
+
+#letra{
+    font-size: 50;
+}
+
+#button{
+    background-color: #F09801;
+    border-radius: 20px;
+    border-color: white;
+}
+
+#fondo{
+    background-image: url("images/phone-2.a0e481df3d808370cf1d.jpg");
+    background-attachment: fixed;
+    z-index: -1;
+    max-width: 100%;
+}
+
+#fondo2{
+    background-image: url("images/taxi.a74ffe08987564e2b9fd.jpg");
+    background-attachment: fixed;
+    z-index: -1;
+    max-width: 100%;
+}
+
+#color{
+    background: white;
+}
+
+#icon{
+    background: #005DA4;
+    width: 100%;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+#transparente{
+    background: transparent;
+    padding-top: 800px;
+}
+
+#pad{
+    margin-top: 1rem!important;
+    padding-top: 100px;
+}
+
+#formid{
+    padding: 15px;
+}
+
+#img-icons{
+    border-color: white;
+    max-width: 100%;
+}
+
+#submit{
+    background-color: #6894C2;
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+}
+
+#last-img{
+    display: inline;
+    padding: 5px;
+}
+
+form input{
+	border-radius: 7px;
+	border: none;
+	padding: 10px;
+	margin-bottom: 10px;
+	color: #66585e;
+	width: 90%;
+}
+
+.text-color{
+    color: white;
+}
+
+.tamaño{
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+    padding-bottom: 70px;
+}
+
+.plat{
+    width: 98%;
+    height: 98%;
+    padding: 2px;
+}
+
+.confiable{
+    padding-top: 150px;
+    padding-left: 50px;
+    padding-bottom: 100px;
+}
+
+.centro{
+    text-align: center;
+}
+
+.form{
+    border: 1px solid;
+    border-radius: 15px;
+    width: 500px;
+}
+
+.last-bg{
+    background: #02579F;
+}
